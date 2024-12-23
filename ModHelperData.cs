@@ -12,6 +12,6 @@ public static class ModHelperData
         "The Options allow you to tweak which sources are allowed and how much they are multiplied<br>" +
         "Allows decimals like 1.5 or 0.5 if you want to make things harder<br>";
 
-    public const string RepoOwner = "Felixfex"; 
-    public const string RepoName = "MultiCash";
+    public const string RepoOwner = "Felixfex & Patryksuu"; 
+    public const string RepoName = "MultiCash Remastered";
 }

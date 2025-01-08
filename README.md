@@ -1,3 +1,8 @@
+<img align="left" alt="Icon" height="60" src="https://static.vecteezy.com/system/resources/thumbnails/012/042/292/small_2x/warning-sign-icon-transparent-background-free-png.png"> <img align="right" alt="Icon" height="60" src="https://static.vecteezy.com/system/resources/thumbnails/012/042/292/small_2x/warning-sign-icon-transparent-background-free-png.png">
+<h2>ㅤㅤㅤㅤㅤProject is discontinued, due to not having dependencies.</h2>
+<br>
+ Original project: <a href="https://github.com/GMFelixfex/MultiCash">hyperlink</a>.
+<br>
 <a href="https://github.com/Patryksuu/MultiCash/releases/latest/download/MultiCash.dll">
     <img align="left" alt="Icon" height="90" src="Icon.png">
     <img align="right" alt="Download" height="75" src="https://raw.githubusercontent.com/gurrenm3/BTD-Mod-Helper/master/BloonsTD6%20Mod%20Helper/Resources/DownloadBtn.png">

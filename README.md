@@ -1,5 +1,5 @@
 <img align="left" alt="Icon" height="60" src="https://static.vecteezy.com/system/resources/thumbnails/012/042/292/small_2x/warning-sign-icon-transparent-background-free-png.png"> <img align="right" alt="Icon" height="60" src="https://static.vecteezy.com/system/resources/thumbnails/012/042/292/small_2x/warning-sign-icon-transparent-background-free-png.png">
-<h2>ㅤㅤㅤㅤㅤProject is discontinued, due to not having dependencies.</h2>
+<h2>ㅤㅤㅤProject is discontinued, due to not having dependencies.</h2>
 <br>
  Original project: <a href="https://github.com/GMFelixfex/MultiCash">hyperlink</a>.
 <br>
